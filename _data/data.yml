@@ -73,8 +73,7 @@ experiences:
         I'm also responsable for WebSphere task authomation with Ansible. Responsable of
         support of WebSphere Application server environment where I support 
         customers to deploy and mantain J2EE applications.
-          - Bullet point
-          - Bullet point
+
     - role: System Engineer
       time: 2011 - 2012
       company: Var Group, Bologna
@@ -94,13 +93,11 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      In this section I'll insert some extra work things
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Let's Connect
+        link: "letsconnect.world"
+        tagline: "I'm member of the Let's Connect user group and I'm one of the organizer of the annual Conference."
 
       - title: DevStudio
         link: "#"
