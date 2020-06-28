@@ -116,11 +116,11 @@ skills:
       - name: WebSphere Application server
         level: 98%
 
-      - name: HCL Digital Experience
-        level: 98%
+      - name: HCL DX
+        level: 92%
 
       - name: Ansible
-        level: 95%
+        level: 90%
 
       - name: Linux 
         level: 90%
@@ -131,6 +131,8 @@ skills:
       - name: HCL Domino
         level: 85%
 
+      - name: Kuberbetes
+        level: 55%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
