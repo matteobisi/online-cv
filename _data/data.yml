@@ -45,10 +45,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a System Engineer and my job is one of my pricipal passion. I'm highly specialized in 
-      Collaboration Solutions like HCL Connections , HCL Digital Experience and Domino products.
-      I'm a technology addicted, I like to learn new technologies or skills and share my find on my blogs
-      and social.
+      I work as a Senior System Engineer for Factor-y IT service company based in Europe where I live, 
+      spending the most of my time in Italy. I'm married with the LOVE of my life and I'm a father of 2 Fox terriers.
+      The focus of my daily work are HCL Connections, Digital Experience and WebSphere administration.
+      I've a good number of certifications, Acclaim's Badges and traditionals PDF certificates.
+      I was named 2 times HCL Ambassador and 7 times IBM Champion !
+      Starting from 2019 I'm part of the Social Connections team responsable to the organization of Let's Connect event.
 education:
     - degree: HLC Ambassador
       university: HCL Digital solution
@@ -97,7 +99,7 @@ projects:
     assignments:
       - title: Let's Connect
         link: "#"
-        tagline: "I'm member of the Let's Connect user group and I'm one of the organizer of the annual Conference."
+        tagline: "I'm member of the Social Connections Team responsable of the organization of the Let's Connect conference."
 
       - title: Speaker
         link: "#"
@@ -127,6 +129,7 @@ skills:
 
       - name: HCL Domino
         level: 85%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
