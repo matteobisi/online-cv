@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Matteo Bisi
@@ -50,11 +50,11 @@ career-profile:
       I'm married with the LOVE of my life and I'm a father of 2 Fox terriers.
       The focus of my daily work are HCL Connections, Digital Experience and WebSphere administration.
       I've a good number of certifications, Acclaim's Badges and traditionals PDF certificates.
-      I was named 2 times HCL Ambassador and 7 times IBM Champion !
+      I was named 2 times HCL Ambassador and 7 times IBM Champion!
       Starting from 2019 I'm part of the Social Connections team responsable to the organization of Let's Connect event.
 education:
     - degree: HLC Ambassador
-      university: HCL Digital solution
+      university: HCL Digital Solutions
       time: 2019 - 2020
       details: |
         I was selected as HCL Ambassador 2 times!
