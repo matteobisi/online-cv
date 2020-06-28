@@ -100,7 +100,7 @@ projects:
     assignments:
       - title: Let's Connect
         link: "#"
-        tagline: "I'm member of the Social Connections Team responsable of the organization of the Let's Connect conference."
+        tagline: "I'm member of the <a href="https://letsconnect.world" target="_blank" rel="nofollow">Social Connections Team</a> responsable of the organization of the Let's Connect conference."
 
       - title: Speaker
         link: "#"
