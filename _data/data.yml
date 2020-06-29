@@ -57,12 +57,14 @@ education:
       university: HCL Digital Solutions
       time: 2019 - 2020
       details: |
-        I was selected as HCL Ambassador 2 times. 2019 and 2020.
+        I was selected as HCL Ambassador 2 times. 2019 and 2020. 
+        "HCL Ambassador is a distinction that HCL awards select members of the community that are both experts in their field and are passionate about sharing their HCL knowledge with others."
     - degree: IBM Champion
       university: IBM
       time: 2014 - 2020
       details: |
-        IBM named me as IBM Champion for collaboration solutions from 2014 to 2019 and for Cloud integration in 2020
+        IBM named me as IBM Champion for collaboration solutions from 2014 to 2019 and for Cloud integration in 2020.
+        "IBM Champion evangelize IBM solutions, share their knowledge, and help grow the community of professionals who are focused on IBM offerings"
 
 experiences:
     - role: Senior System Engineer
@@ -104,7 +106,7 @@ projects:
 
       - title: Speaker
         link: "#"
-        tagline: "During last year I had the honor the be selected as speaker several times, for conferences in US and Europe."
+        tagline: "During last years I had the honor the be selected as speaker several times, like IBM Connect, IBM Thing, Engage and Icon UK."
 
 skills:
     title: Skills &amp; Proficiency
@@ -135,4 +137,4 @@ skills:
         level: 55%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    This theme was designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
